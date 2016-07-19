@@ -1,3 +1,34 @@
+<a name="2.5.0"></a>
+# [2.5.0](https://github.com/alibaba/plover/compare/v2.3.0...v2.5.0) (2016-07-11)
+
+
+### Performance Improvements
+
+* 对异步渲染引擎的支持 ([12594be](https://github.com/alibaba/plover/commit/12594be))
+
+
+
+<a name="2.3.0"></a>
+# [2.3.0](https://github.com/alibaba/plover/compare/v2.2.1...v2.3.0) (2016-07-04)
+
+
+### Performance Improvements
+
+* improve performance for render children ([d1f20c2](https://github.com/alibaba/plover/commit/d1f20c2))
+* 使用plover-util/lib/assign代替Object.assign提升性能 ([87c6b1b](https://github.com/alibaba/plover/commit/87c6b1b))
+
+
+
+<a name="2.2.0"></a>
+# [2.2.0](https://github.com/alibaba/plover/compare/v2.1.1...v2.2.0) (2016-06-17)
+
+
+### Bug Fixes
+
+* 优化模块的加载，添加cache ([843511d](https://github.com/alibaba/plover/commit/843511d))
+
+
+
 <a name="2.1.0"></a>
 # [2.1.0](https://github.com/alibaba/plover/compare/v2.0.3...v2.1.0) (2016-05-08)
 
